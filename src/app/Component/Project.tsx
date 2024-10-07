@@ -45,7 +45,7 @@ function Project() {
                       first stage of AI, and I’m beyond happy to see it coming
                       to life..
             </p>
-            <Link href={"#"}>
+            <Link href={"https://jarvis-eight-beryl.vercel.app/"}>
               <p className="leading-relaxed text-blue-300 hover:cursor-pointer hover:underline">
           view project...
             </p>
